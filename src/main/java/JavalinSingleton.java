@@ -46,7 +46,7 @@ public class JavalinSingleton {
                
         });
 
-        // dummy comment for dummy commit to fix testing issue
+        // dummy comment for dummy commit to fix 'mark as complete' issue
 
         return app;
     }

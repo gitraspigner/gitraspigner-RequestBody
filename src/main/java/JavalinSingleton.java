@@ -46,6 +46,7 @@ public class JavalinSingleton {
                
         });
 
+        // dummy comment for dummy commit to fix testing issue
 
         return app;
     }
